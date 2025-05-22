@@ -2,8 +2,6 @@
 
 A real-time webcam photo booth built with p5.js and ml5.js. Snap four photos with fun filters including black & white, green screen, generative art background, or inverted colors, and export them as a customizable 4-shot collage!
 
----
-
 ## Features
 
 - Live preview of your webcam feed
@@ -19,8 +17,6 @@ A real-time webcam photo booth built with p5.js and ml5.js. Snap four photos wit
 - Downloadable collage that lets you export all four snapshots as a single PNG
 - Allows you to reset & retake new photos
 
----
-
 ## Technologies
 
 - [p5.js](https://p5js.org/) (core drawing & DOM)
@@ -28,8 +24,6 @@ A real-time webcam photo booth built with p5.js and ml5.js. Snap four photos wit
 - [ml5.js](https://ml5js.org/) (BodySegmentation for green screen & generative art masking)
 - JavaScript 
 - HTML/CSS
-
----
 
 ## Usage
 
@@ -48,8 +42,6 @@ A real-time webcam photo booth built with p5.js and ml5.js. Snap four photos wit
    * Use the **color picker** to select a frame border color.
    * Click the **Download** button (⬇️) to save your collage as `photo_booth_collage.png`.
 6. **Retake** anytime by clicking **"Take New Photos!"**
-
----
 
 ## Customization
 
