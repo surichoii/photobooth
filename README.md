@@ -6,18 +6,18 @@ A real-time webcam photo booth built with p5.js and ml5.js. Snap four photos wit
 
 ## Features
 
-- **Live preview** of your webcam feed
-- **Five filters**:
+- Live preview of your webcam feed
+- **Five filters**
   - **Black & White** (grayscale)
   - **Green Screen** (replace background color or upload your own image)
   - **Generative Art** (dynamic procedural background behind your silhouette)
   - **Inverted Colors**
   - **None** (original feed)
-- **3‑second countdown** before each shot
-- **4‑shot sessions**: automatically snaps four photos in a row
-- **Custom frame color**: pick a border color for your collage
-- **Downloadable collage**: export all four snapshots as a single PNG
-- **Reset & retake**: easily start a new photo session
+- 3‑second countdown before each shot
+- Automatically snaps four photos in a row
+- Custom frame color that allows you to pick a border color for your collage
+- Downloadable collage that lets you export all four snapshots as a single PNG
+- Allows you to reset & retake new photos
 
 ---
 
